@@ -14,7 +14,7 @@
       "runtimeArgs": ["run", "--inspect", "--allow-all", "--unstable"],
       "attachSimplePort": 9229,
       "env": {
-        "UUID": "e0a102c8-51c8-436c-860b-ef279d8a6ada"
+        "UUID": "5eab9b80-ce90-4330-9acc-0c7a8bbc8964c"
       }
     }
   ]
